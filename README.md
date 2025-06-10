@@ -81,7 +81,7 @@ Course Provider: IBM<br>
 - Client: Myself
 - Project Goal: Expand the web user interface of the existing React application. Practice working with React, Redux and the Redux Toolkit.
 - Number of Project Participants: 1 (Cloned repository of IBM. Developed the rest on my own)
-- Time Period: October, 2024
+- Time Period: June, 2025
 - Industry / Area: Web Development
 - Role: Developer
 - Languages: English
